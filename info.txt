@@ -2,3 +2,7 @@
 MTA2MjkyODc2MjE5MjI3NzUxNA.GdDE6m.IVQvvyEKHweXORQhCeMedUGN99UX6AlOOgYVes [ discord token ] 
 https://discord.com/channels/933995010158907422/1295272076055412766 [ discord channel server link ] 
 1295272076055412766[ discord server id ] 
+
+
+To run the node:
+python3 auto.py
