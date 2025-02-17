@@ -6,3 +6,6 @@ https://discord.com/channels/933995010158907422/1295272076055412766 [ discord ch
 
 To run the node:
 python3 auto.py
+
+Delay (in seconds) between messages: 330
+Sleep time (in seconds): 930
