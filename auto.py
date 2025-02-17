@@ -43,8 +43,8 @@ def write_info(user_id, token, channel_url, channel_id):
 
 def configure_info():
     try:
-        user_id = input("1062928762192277514")
-        token = input("MTA2MjkyODc2MjE5MjI3NzUxNA.GdDE6m.IVQvvyEKHweXORQhCeMedUGN99UX6AlOOgYVes")
+        user_id = input("1331271491139920000")
+        token = input("MTMzMTI3MTQ5MTEzOTkyODIyOQ.GSJfoJ.5Zx5uqTewtteqZIYTFdgj_RQvJxu11setM781A")
         channel_url = input("https://discord.com/channels/933995010158907422/1295272076055412766")
         channel_id = input("1295272076055412766")
         write_info(user_id, token, channel_url, channel_id)
